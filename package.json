@@ -6,8 +6,9 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo clean && hexo generate && hexo deploy",
-    "server": "hexo generate && hexo server",
-    "new": "hexo new post \"\""
+    "server": "hexo server",
+    "newpage": "hexo new page --path categories/index \"categories\"",
+    "newpost": "hexo new post \"\""
   },
   "hexo": {
     "version": "6.3.0"

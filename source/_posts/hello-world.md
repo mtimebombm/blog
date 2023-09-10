@@ -1,5 +1,8 @@
 ---
 title: Hello World
+date: 2023-09-05 20:09:16
+tags: [life]
+categories: [生活小站]
 ---
 # Welcome to my 小窝
 

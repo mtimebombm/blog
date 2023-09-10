@@ -2,6 +2,7 @@
 title: AF-XDP 应用
 date: 2023-09-09 20:09:16
 tags: [xdp,eBPF]
+categories: [技术分享]
 ---
 AF-XDP，来源与 XDP，XDP 又是衍生与 eBPF，eBPF又生与N 久前的 BPF。
 
