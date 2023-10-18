@@ -8,7 +8,7 @@
     "deploy": "hexo clean && hexo generate && hexo deploy",
     "server": "hexo server",
     "newpage": "hexo new page --path categories/index \"categories\"",
-    "newpost": "hexo new post \"\""
+    "newpost": "hexo new post \"libxdp && libbpf 内容与关系\""
   },
   "hexo": {
     "version": "6.3.0"
